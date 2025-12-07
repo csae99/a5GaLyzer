@@ -54,13 +54,6 @@ a5Galyzer aims to offer users a professional-grade network analysis tool that si
 ---
 
 ## **Screenshots**
-![Screenshot 0](Screenshots/screenshot_0.png)
-![Screenshot 1](Screenshots/screenshot_1.png)
-![Screenshot 2](Screenshots/screenshot_2.png)
-![Screenshot 3](Screenshots/screenshot_3.png)
-![Screenshot 4](Screenshots/screenshot_4.png)
-![Screenshot 5](Screenshots/screenshot_5.png)
-![Screenshot 6](Screenshots/screenshot_6.png)
 
 ---
 
